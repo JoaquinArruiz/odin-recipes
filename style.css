@@ -1,0 +1,33 @@
+.titulo-inicio {
+
+    color: white;
+    background-color: lightcoral;
+    -webkit-text-stroke: 2px;
+    -webkit-text-stroke-color: black;
+    outline-style: groove;
+    outline: ;
+    border-color: black;
+    border-radius: 90px;
+    text-align: center;
+    font-size: 90px;
+    font-family: 'Times New Roman', Times, serif;
+  
+}
+
+ul {
+    color: blue;
+    background: lightgreen;
+    outline-style: outset;
+    outline-width: 3;
+    outline-color: black;
+
+}
+
+ul li {
+    color: black;
+    margin-top: 4px;
+    font-size: 30px;
+    -webkit-text-stroke: 1px;
+    -webkit-text-stroke-color: black;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
